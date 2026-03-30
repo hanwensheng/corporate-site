@@ -145,7 +145,7 @@
 ## Agent Do / Do Not
 - Do read existing neighboring files before changing style or structure
 - Do keep edits tightly scoped to the user request
-- Do preserve Chinese documentation/comment style already used across the codebase
+- Do preserve Chinese documentation/comment style already used in the repo
 - Do update this file when build/test/style conventions materially change
 - Do not modify generated directories like `.nuxt/` or `.output/`
 - Do not assume missing tooling exists
